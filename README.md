@@ -75,13 +75,6 @@ Apriori และ FP-Growth พบ Frequent Itemsets อย่างละ **410
 
 โครงงานเลือก **Balanced Logistic Regression** สำหรับขั้นตอนสาธิตการนำไปใช้ เพราะเพิ่ม Recall ของกลุ่ม churn จาก **41.61% เป็น 72.48%** และลด False Negative จาก **87 คนเหลือ 41 คน** แม้ Precision จะลดลง ส่วนการเพิ่ม Purchase Trend ให้ผลใกล้เคียงกัน
 
-## ไฟล์ใน repository
-
-- [112-Mini_project_AML_final.ipynb](112-Mini_project_AML_final.ipynb) — โค้ด การอธิบายขั้นตอน กราฟ และผลการทดลอง
-- [รายงานฉบับ PDF](112-Mini_project_AML_รายงาน_final_final.pdf) — รายงานโครงงานฉบับสมบูรณ์
-- [รายงานฉบับ Word](Mini_project_AML_รายงาน.docx) — เอกสารรายงานที่แก้ไขได้
-- [requirements.txt](requirements.txt) — ไลบรารีหลักสำหรับการวิเคราะห์และเปิด notebook ในเครื่อง
-
 ## วิธีเปิดและรัน
 
 ### Google Colab
